@@ -50,7 +50,10 @@ namespace ContactManager8796565
         {
             get { return contactAddr1; }
             set { contactAddr1 = value; }
-        }
+        } /// <summary>
+        /// 
+        /// </summary>
+        /// hgughyu
 
         private string contactAddr2;
         public string ContactAddr2
